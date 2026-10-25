@@ -9,7 +9,7 @@ The work lives in `preprocessing.ipynb`.
 1. Create a conda environment in the project folder:
 
    ```bash
-   conda create -p ./venv python=3.14
+   conda create -p ./venv python=3.12
    ```
 
 2. Activate it:
